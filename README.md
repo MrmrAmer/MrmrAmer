@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Marwan 👋
 
-<!--
-**MrmrAmer/MrmrAmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently attending Axsos Academy's full-stack bootcamp in Ramallah, Palestine.
 
-Here are some ideas to get you started:
+💻 I’m learning:
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Python, Node.js
+- Databases: MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently working on:
+- Solo and group projects at Axsos
+- Building practical web apps to sharpen my skills
+
+📫 How to reach me:
+- 📧 moa@live.ca
+- 💼 [LinkedIn](https://www.linkedin.com/in/mrmramer)
+
+🌱 Always learning and excited to grow in tech!
+
+⚡ Fun fact: I transitioned to tech from accounting and sales — and I love the creativity in coding!
